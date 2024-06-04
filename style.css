@@ -41,6 +41,17 @@
         --main-blue: #05306a;
     }
 
+    div#construction {
+        background-color: red;
+        font-size: 36px;
+        text-align: center;
+        padding: 20px 0;
+    }
+
+    div#construction img {
+        width: 100px;
+    }
+
     body {
         color: #444444;
         font-family: 'Poppins', sans-serif;
